@@ -55,7 +55,7 @@
                 {
                     "code": "12757355",
                     "market": "12175",
-                    "current_credit": "0",
+                    "current_credit": "172",
                     "last_reading": "115.357",
                     "relay_status": "1",
                     "energy_diff": "0",
@@ -76,7 +76,7 @@
                 {
                     "code": "10018",
                     "market": "11498",
-                    "current_credit": "250",
+                    "current_credit": "600",
                     "last_reading": "59",
                     "relay_status": "0",
                     "energy_diff": "60",
