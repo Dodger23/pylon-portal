@@ -132,6 +132,34 @@
             ]
         }
     ],
+    "payment": {
+        "data": [
+            {
+                "receipt_no": "0000033",
+                "trx_date": "01/09/2021",
+                "cash_in": 50000,
+                "bank_transfer_ing": 7550,
+                "check_in": 25463,
+                "on_accounts": 578563
+            },
+            {
+                "receipt_no": "0000032",
+                "trx_date": "01/09/2021",
+                "cash_in": 50000,
+                "bank_transfer_ing": 7550,
+                "check_in": 25463,
+                "on_accounts": 578563
+            },
+            {
+                "receipt_no": "0000031",
+                "trx_date": "01/09/2021",
+                "cash_in": 50000,
+                "bank_transfer_ing": 7550,
+                "check_in": 25463,
+                "on_accounts": 578563
+            }
+        ]
+    },
     "consumption": [
         {
             "id": 12757355,
