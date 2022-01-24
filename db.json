@@ -138,6 +138,7 @@
                 "receipt_no": "0000033",
                 "trx_date": "01/09/2021",
                 "cash_in": 50000,
+                "credit_card_in": 10000,
                 "bank_transfer_in": 7550,
                 "check_in": 25463,
                 "on_accounts": 578563
@@ -146,6 +147,7 @@
                 "receipt_no": "0000032",
                 "trx_date": "01/09/2021",
                 "cash_in": 50000,
+                "credit_card_in": 10000,
                 "bank_transfer_in": 7550,
                 "check_in": 25463,
                 "on_accounts": 578563
@@ -154,6 +156,7 @@
                 "receipt_no": "0000031",
                 "trx_date": "01/09/2021",
                 "cash_in": 50000,
+                "credit_card_in": 10000,
                 "bank_transfer_in": 7550,
                 "check_in": 25463,
                 "on_accounts": 578563
