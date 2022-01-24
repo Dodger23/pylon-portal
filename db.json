@@ -1,0 +1,147 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "Tarek Hassan",
+            "email": "tarekhassan@test.com",
+            "data": [
+                {
+                  "pk": "7738",
+                  "code": "10018",
+                  "status": "1",
+                  "current_credit": "172",
+                  "energy_diff": "60",
+                  "last_reading": "59",
+                  "last_reading_date": "2019-05-13 00:00:00",
+                  "mdm_property_types": "205",
+                  "locations": "5312",
+                  "address": "عنوان العميل 483",
+                  "market": "11498",
+                  "payment_mode": "2",
+                  "name": " أحادى 80 ذكى",
+                  "relay_status": "0",
+                  "activity": "تجاري - غاز",
+                  "utility": "غاز",
+                  "mdm_utilities": "2",
+                  "market_user_ref": null
+                },
+                {
+                  "pk": "7918",
+                  "code": "1458183",
+                  "status": "1",
+                  "current_credit": "160.8",
+                  "energy_diff": "30",
+                  "last_reading": "104",
+                  "last_reading_date": "2019-04-29 00:00:00",
+                  "mdm_property_types": "183",
+                  "locations": "5252",
+                  "address": "عنوان العميل 483",
+                  "market": "11498",
+                  "payment_mode": "2",
+                  "name": " أحادى 80 ذكى",
+                  "relay_status": "0",
+                  "activity": "منزلي - مياة",
+                  "utility": "مياة",
+                  "mdm_utilities": "3",
+                  "market_user_ref": null
+                },
+                {
+                  "pk": "7919",
+                  "code": "145773",
+                  "status": "1",
+                  "current_credit": "150",
+                  "energy_diff": "10",
+                  "last_reading": "92",
+                  "last_reading_date": "2019-02-13 00:00:00",
+                  "mdm_property_types": "984",
+                  "locations": "5292",
+                  "address": "عنوان العميل 483",
+                  "market": "11498",
+                  "payment_mode": "2",
+                  "name": " أحادى 80 ذكى",
+                  "relay_status": "0",
+                  "activity": "منزلي - كهرباء",
+                  "utility": "كهرباء",
+                  "mdm_utilities": "1",
+                  "market_user_ref": null
+                },
+                {
+                  "pk": "10542",
+                  "code": "12757375",
+                  "status": "0",
+                  "current_credit": "0",
+                  "energy_diff": null,
+                  "last_reading": "21.596",
+                  "last_reading_date": "2019-02-03 13:36:30",
+                  "mdm_property_types": "982",
+                  "locations": "5252",
+                  "address": "عنوان العميل 517",
+                  "market": "11939",
+                  "payment_mode": "2",
+                  "name": "ADD Smart 3Ph",
+                  "relay_status": "1",
+                  "activity": "منزلي - كهرباء",
+                  "utility": "كهرباء",
+                  "mdm_utilities": "1",
+                  "market_user_ref": null
+                }
+              ]
+        }
+    ],
+    "meter": [
+        {
+            "id": "12757355",
+            "code": "12757355",
+            "market": "12175",
+            "current_credit": "0",
+            "last_reading": "115.357",
+            "relay_status": "1",
+            "energy_diff": "0",
+            "payment_mode": "2",
+            "mdm_utilities": "1",
+            "address": "عنوان العميل 561",
+            "mobile": "01234567890",
+            "unity": "كيلووات",
+            "last_reading_date": "01/06/2021 12:38",
+            "last_charge_date": "30/05/2021 14:08",
+            "account_reference": "00-000-0000-10-111"
+        }
+    ],
+    "consumption": [
+        {
+            "id": 1,
+            "data": [
+                {
+                    "pk": "32717",
+                    "trx_date": "15/01/2021",
+                    "mdm_meters": "17738",
+                    "reading": null,
+                    "energy_diff": "5",
+                    "mdm_billing_cycle": "22",
+                    "tariff_value": null,
+                    "code": "12757355"
+                },
+                {
+                    "pk": "32714",
+                    "trx_date": "31/03/2021",
+                    "mdm_meters": "17738",
+                    "reading": "50",
+                    "energy_diff": "50",
+                    "mdm_billing_cycle": "24",
+                    "tariff_value": null,
+                    "code": "12757355"
+                },
+                {
+                    "pk": "32713",
+                    "trx_date": "31/05/2021",
+                    "mdm_meters": "17738",
+                    "reading": "50",
+                    "energy_diff": "50",
+                    "mdm_billing_cycle": "26",
+                    "tariff_value": null,
+                    "code": "12757355"
+                }
+            ]
+        }
+    ]
+}
